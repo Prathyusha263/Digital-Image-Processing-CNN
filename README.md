@@ -90,7 +90,7 @@ markdown## Results
 | F1-Score (Macro) | 48.0% |
 | Test Loss | 1.48 |
 
-> 📝 Replace XX% with your actual numbers from the notebook output
+
 
 ---
 
