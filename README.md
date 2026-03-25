@@ -81,7 +81,7 @@ pip install tensorflow opencv-python scikit-learn matplotlib seaborn numpy
 
 ---
 
-markdown## Results
+## Results
 | Metric | Score |
 |--------|-------|
 | Test Accuracy | 48.9% |
